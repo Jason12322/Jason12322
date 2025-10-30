@@ -64,7 +64,7 @@ A full-stack application for managing tutor and lab assistant applications with 
 ---
 
 ### [EventHub - Campus Event Management](https://github.com/Jason12322/EventHub-Campus-Event-Management-System)
-Event management platform for university clubs and students, serving 200+ users.
+Event management platform for university clubs and students.
 
 **Tech Stack:** Spring Boot • MySQL • Docker • GitHub Actions  
 **Features:**
